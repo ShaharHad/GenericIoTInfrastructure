@@ -1,4 +1,4 @@
-package il.co.ilrd.GenericIoTInfrastructure.GatewayServerAdminDBManager;
+package GatewayServerAdminDBManager;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonArray;
@@ -21,7 +21,7 @@ import static java.util.Arrays.asList;
 
 public class GatewayMongoDBHandler implements GatewayDBMSHandler{
 
-    private final String MONGODB_CONNECTION_URL = "mongodb+srv://shahar:cjOgfRwiPM7mu282@cluster0.k66nm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+    private final String MONGODB_CONNECTION_URL = "MONGODB_CONNECTION_URL";
     private MongoClient mongoClient;
 
     public GatewayMongoDBHandler() {

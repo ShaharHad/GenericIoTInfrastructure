@@ -1,6 +1,6 @@
-package il.co.ilrd.GenericIoTInfrastructure.connection_service;
+package connection_service;
 
-import il.co.ilrd.GenericIoTInfrastructure.RPS;
+import RPS;
 
 import java.io.IOException;
 import java.net.InetAddress;

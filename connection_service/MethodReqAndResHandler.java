@@ -1,4 +1,4 @@
-package il.co.ilrd.GenericIoTInfrastructure.connection_service;
+package connection_service;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;

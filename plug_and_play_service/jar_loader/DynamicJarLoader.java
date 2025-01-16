@@ -1,4 +1,4 @@
-package il.co.ilrd.GenericIoTInfrastructure.plug_and_play_service.jar_loader;
+package plug_and_play_service.jar_loader;
 
 import java.io.IOException;
 import java.net.MalformedURLException;

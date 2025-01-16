@@ -1,4 +1,4 @@
-package il.co.ilrd.GenericIoTInfrastructure.Tests;
+package Tests;
 
 
 public class Tests {

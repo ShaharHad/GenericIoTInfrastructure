@@ -1,4 +1,4 @@
-package il.co.ilrd.GenericIoTInfrastructure.connection_service;
+package connection_service;
 
 import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpHandler;

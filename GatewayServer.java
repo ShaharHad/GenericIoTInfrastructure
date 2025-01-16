@@ -1,6 +1,5 @@
-package il.co.ilrd.GenericIoTInfrastructure;
 
-import il.co.ilrd.GenericIoTInfrastructure.connection_service.ConnectionService;
+import connection_service.ConnectionService;
 
 import java.net.InetAddress;
 import java.net.UnknownHostException;

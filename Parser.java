@@ -1,4 +1,3 @@
-package il.co.ilrd.GenericIoTInfrastructure;
 
 import com.google.gson.JsonObject;
 

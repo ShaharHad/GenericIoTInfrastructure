@@ -1,7 +1,7 @@
-package il.co.ilrd.GenericIoTInfrastructure.plug_and_play_service.DirectoryMonitor.Observer.Tests;
+package plug_and_play_service.DirectoryMonitor.Observer.Tests;
 
-import il.co.ilrd.GenericIoTInfrastructure.plug_and_play_service.DirectoryMonitor.Observer.Publisher;
-import il.co.ilrd.GenericIoTInfrastructure.plug_and_play_service.DirectoryMonitor.Observer.Subscriber;
+import plug_and_play_service.DirectoryMonitor.Observer.Publisher;
+import plug_and_play_service.DirectoryMonitor.Observer.Subscriber;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

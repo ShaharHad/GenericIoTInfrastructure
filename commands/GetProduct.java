@@ -1,4 +1,4 @@
-package il.co.ilrd.GenericIoTInfrastructure.commands;
+package commands;
 
 import com.google.gson.JsonObject;
 import il.co.ilrd.GenericIoTInfrastructure.connection_service.RespondableChannel;

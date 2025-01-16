@@ -1,4 +1,4 @@
-package il.co.ilrd.GenericIoTInfrastructure.Factory;
+package Factory;
 
 import java.util.function.Function;
 

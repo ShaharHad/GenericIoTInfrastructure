@@ -1,12 +1,4 @@
-/*************
- Code by: Shahar Hadad
- Project: plugAndPlay
- Review by: Amit
- Approved by: Amit
- *************/
-
-
-package il.co.ilrd.GenericIoTInfrastructure.plug_and_play_service;
+package plug_and_play_service;
 
 import il.co.ilrd.GenericIoTInfrastructure.RPS;
 import il.co.ilrd.GenericIoTInfrastructure.plug_and_play_service.DirectoryMonitor.DirectoryMonitor;

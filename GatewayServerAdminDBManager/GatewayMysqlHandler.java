@@ -1,4 +1,4 @@
-package il.co.ilrd.GenericIoTInfrastructure.GatewayServerAdminDBManager;
+package GatewayServerAdminDBManager;
 
 import com.google.gson.JsonObject;
 

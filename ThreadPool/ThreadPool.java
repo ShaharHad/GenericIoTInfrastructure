@@ -1,13 +1,7 @@
-/*************
- Code by: Shahar Hadad
- Project: Thread pool
- Review by: Yarden
- Approved by: Yarden
- *************/
 
-package il.co.ilrd.GenericIoTInfrastructure.ThreadPool;
+package ThreadPool;
 
-import il.co.ilrd.WaitablePQ.WaitablePQ;
+import WaitablePQ;
 
 import java.util.ArrayList;
 import java.util.concurrent.*;

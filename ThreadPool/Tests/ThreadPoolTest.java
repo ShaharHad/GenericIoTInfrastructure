@@ -1,7 +1,7 @@
-package il.co.ilrd.GenericIoTInfrastructure.ThreadPool.Tests;
+package ThreadPool.Tests;
 
-import il.co.ilrd.GenericIoTInfrastructure.ThreadPool.Priority;
-import il.co.ilrd.GenericIoTInfrastructure.ThreadPool.ThreadPool;
+import ThreadPool.Priority;
+import ThreadPool.ThreadPool;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

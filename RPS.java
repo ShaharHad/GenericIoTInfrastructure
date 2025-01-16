@@ -1,11 +1,10 @@
-package il.co.ilrd.GenericIoTInfrastructure;
 
 import com.google.gson.JsonObject;
-import il.co.ilrd.GenericIoTInfrastructure.Factory.CommandFactory;
-import il.co.ilrd.GenericIoTInfrastructure.ThreadPool.ThreadPool;
-import il.co.ilrd.GenericIoTInfrastructure.commands.Command;
-import il.co.ilrd.GenericIoTInfrastructure.connection_service.RespondableChannel;
-import il.co.ilrd.GenericIoTInfrastructure.plug_and_play_service.PlugAndPlayService;
+import Factory.CommandFactory;
+import ThreadPool.ThreadPool;
+import commands.Command;
+import connection_service.RespondableChannel;
+import plug_and_play_service.PlugAndPlayService;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;

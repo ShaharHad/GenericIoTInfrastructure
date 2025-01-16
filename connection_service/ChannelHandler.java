@@ -1,4 +1,4 @@
-package il.co.ilrd.GenericIoTInfrastructure.connection_service;
+package connection_service;
 
 import java.nio.channels.SelectableChannel;
 

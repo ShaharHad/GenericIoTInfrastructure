@@ -1,4 +1,4 @@
-package il.co.ilrd.GenericIoTInfrastructure.WebServerAdminDBManager;
+package WebServerAdminDBManager;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;

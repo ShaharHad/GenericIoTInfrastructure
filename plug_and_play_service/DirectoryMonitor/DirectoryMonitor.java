@@ -1,6 +1,6 @@
-package il.co.ilrd.GenericIoTInfrastructure.plug_and_play_service.DirectoryMonitor;
+package plug_and_play_service.DirectoryMonitor;
 
-import il.co.ilrd.GenericIoTInfrastructure.plug_and_play_service.DirectoryMonitor.Observer.Publisher;
+import plug_and_play_service.DirectoryMonitor.Observer.Publisher;
 
 import java.io.IOException;
 import java.nio.file.*;

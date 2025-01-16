@@ -1,4 +1,4 @@
-package il.co.ilrd.GenericIoTInfrastructure.ThreadPool;
+package ThreadPool;
 
 public enum Priority{
     HIGH(10),

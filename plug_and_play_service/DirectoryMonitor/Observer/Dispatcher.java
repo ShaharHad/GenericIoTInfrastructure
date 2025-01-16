@@ -1,4 +1,4 @@
-package il.co.ilrd.GenericIoTInfrastructure.plug_and_play_service.DirectoryMonitor.Observer;
+package plug_and_play_service.DirectoryMonitor.Observer;
 
 import java.util.ArrayList;
 import java.util.List;
