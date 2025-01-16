@@ -64,7 +64,7 @@ The frontend is built using HTML, CSS, and JavaScript.
 
 3. **Thread Pool**
     - Manages multiple concurrent threads efficiently.
-      - Reuse thread existed threads 
+      - Reuse existed threads 
 
 4. **Composite**
     - Implements a “has-a” relationship between objects.
