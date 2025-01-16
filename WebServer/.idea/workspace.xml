@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8511afe7-2f3d-4fbf-a11f-c71f1d5da7e8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TomcatPlayGround/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../ds/src/bitarray.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../ds/src/bitarray.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../ds/src/calculator.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../ds/src/calculator.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../ds/src/hashtable.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../ds/src/hashtable.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../ds/src/trie.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../ds/src/trie.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../ds/test/bitarray_test.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../ds/test/bitarray_test.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../ds/test/calculator_test.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../ds/test/calculator_test.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../ds/test/hashtable_test.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../ds/test/hashtable_test.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2oW7lh1VF3Mlz9ppzj74vDYWUmP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8511afe7-2f3d-4fbf-a11f-c71f1d5da7e8" name="Changes" comment="" />
+      <created>1730973635934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730973635934</updated>
+    </task>
+    <servers />
+  </component>
+</project>

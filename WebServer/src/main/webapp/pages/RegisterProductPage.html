@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Product Registration</title>
+        <link rel="stylesheet" href="../css/GeneralStyle.css">
+        <link rel="stylesheet" href="../css/RegisterProductPage.css">
+    </head>
+    <body>
+        <header>
+            <ul>
+                <li><a href="/">Home</a></li>
+            </ul>
+        </header>
+        <div id="register_product_page">
+            <h1 class="main_title">Register Product</h1>
+            <div class="form-container">
+                <form action="/register_product" method="post">
+                    <div class="form-group">
+                        <label for="company_id">Company ID</label>
+                        <input type="number" id="company_id" name="company_id" required>
+                        <p class="hidden" id="message_error"></p>
+                    </div>
+                    <div class="form-group">
+                        <label for="product_name">Product Name</label>
+                        <input type="text" id="product_name" name="product_name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="description">Description</label>
+                        <br>
+                        <textarea id="description" placeholder="120 character limit" name="description" maxlength="120" rows="5" cols="30" required></textarea>
+                    </div>
+                    <div >
+                        <button class="btn" >Register</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </body>
+    <script>
+        const companyID = document.getElementById("company_id");
+        companyID.addEventListener("input", function(){
+            companyID.setCustomValidity('');
+        });
+
+        companyID.addEventListener("invalid", function(){
+            companyID.setCustomValidity('Enter valid company id');
+
+        });
+    </script>
+</html>

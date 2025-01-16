@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title> Search Company</title>
+        <link rel="stylesheet" href="../css/GeneralStyle.css">
+        <link rel="stylesheet" href="../css/GetCompany.css">
+    </head>
+    <body>
+        <header>
+            <ul>
+                <li><a href="/">Home</a></li>
+            </ul>
+        </header>
+        <div id="get_company_page">
+            <h1 class="main_title">Search Company by ID</h1>
+            <div class="form-container">
+                <form onsubmit="return validateIDAsNumbers('Company ID')" action="/get_company" method="get">
+                    <div class="form-group">
+                        <label for="company_id">Company ID</label>
+                        <input type="text" id="company_id" name="company_id" required>
+                        <p class="hidden" id="message_error"></p>
+                    </div>
+                    <div>
+                        <button class="btn">Search</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </body>
+    <script src="../js/Validation.js"></script>
+</html>

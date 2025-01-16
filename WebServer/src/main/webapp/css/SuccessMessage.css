@@ -1,0 +1,22 @@
+#message{
+    font-family: Cursive, serif;
+    font-size: 5vw;
+    text-align: center;
+    padding-bottom: 4vw;
+    margin: 6vw auto 0;
+    background: linear-gradient(orange, green, blue, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.message_container{
+
+}
+
+.message_found{
+    background-color: #4effef;
+    margin-left: 25vw;
+    margin-right: 25vw;
+}
+
+

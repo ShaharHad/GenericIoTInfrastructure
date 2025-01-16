@@ -1,0 +1,39 @@
+#data_table table{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+    text-align: center;
+    margin: 0 auto 0;
+}
+
+#data_table td, #data_table th{
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#data_table tr:hover{
+    background-color: #ddd;
+}
+
+#data_table th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+}
+
+
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 4vh;
+}
+.pagination button {
+    margin: 0 1vw;
+    padding: 1vh 1vw;
+}
+
+

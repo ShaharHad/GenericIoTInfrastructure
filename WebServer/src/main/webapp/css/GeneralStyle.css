@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    display: block;
+    background-image: url("../images/servers_farm3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.main_title{
+    font-family: Cursive, serif;
+    font-size: 5vh;
+    text-align: center;
+    padding-bottom: 4vh;
+    margin: 6vh auto 0;
+    background: linear-gradient(orange, green, blue, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.btn{
+    background-color: dodgerblue;
+    border: none;
+    color: white;
+    padding: 1vmin;
+    text-decoration: none;
+    font-size: 2vh;
+    transition-duration: 0.4s;
+}
+
+.btn:hover{
+    background-color: green;
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #04AA6D;
+}
+
+.hidden{
+    display: none;
+}
+
+.message_error{
+    font-size: 1vw;
+    color: red;
+}

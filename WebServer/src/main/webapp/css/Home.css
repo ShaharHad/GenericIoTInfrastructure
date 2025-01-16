@@ -1,0 +1,30 @@
+#home_manu {
+    display: flex;
+    flex-direction: column;
+    gap: 2vh;
+    text-align: center;
+    width: 30%;
+    margin: 0 auto;
+}
+
+#home_manu a {
+    display: block;
+    text-decoration: none;
+    color: white;
+    background-color: blueviolet;
+    padding: 2vh 4vh;
+    font-size: 2vh;
+    border-radius: 20px;
+}
+
+#home_manu a:hover {
+    background-color: darkblue;
+}
+
+#home_manu a:active {
+    background-color: cadetblue;
+}
+
+.main_title{
+    padding-bottom: 1vh;
+}

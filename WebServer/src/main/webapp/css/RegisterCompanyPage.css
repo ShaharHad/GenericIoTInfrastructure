@@ -1,0 +1,45 @@
+
+
+.form-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-group{
+    margin: 1vh;
+}
+
+.form-group label{
+    font-size: 2vw;
+    font-weight: bolder;
+    background: linear-gradient(#409139, #999e55);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+
+}
+
+.form-group input{
+    font-size: 3vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#btn_home{
+    bottom: 0;
+}
+
+#btn_home button{
+    margin-left: 5vw;
+    border-radius: 10px;
+    font-size: 1.5vw;
+    background-color: #04AA6D;
+}
+
+
+
+
+
