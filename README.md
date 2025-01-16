@@ -78,5 +78,5 @@ The frontend is built using HTML, CSS, and JavaScript.
    - Provide global point of access to the instance
 
 7. **Mediator Pattern**
-    - Used in the **Plug-and-Play Service** to coordinate the communication between the **Directory Watcher** and the **JAR Loader**, and between the JAR Loader to RPS, reducing direct dependencies and improving modularity.
+    - Used in the **Plug-and-Play Service** to coordinate the communication between the **Directory Watcher** and the **JAR Loader**, and between the **JAR Loader** to **RPS**, reducing direct dependencies and improving modularity.
 
